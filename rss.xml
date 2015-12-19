@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Daniel Ferms blogg]]></title>
-        <description><![CDATA[Daniel Ferms blogg]]></description>
+        <title><![CDATA[Betatesting the grid]]></title>
+        <description><![CDATA[Betatesting the grid]]></description>
         <link>http://fermus.se/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 22:34:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Dec 2015 22:45:14 GMT</lastBuildDate>
         <atom:link href="http://fermus.se/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://jonasclasson.se/wp-content/uploads/2015/12/infohemsida2.jpeg">]]></description>
+            <link>http://jonasclasson.se/</link>
+            <guid isPermaLink="false">710fb430-686a-4d92-8808-bbce4fc994d6</guid>
+            <pubDate>Sat, 19 Dec 2015 22:44:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Images]]></title>
             <description><![CDATA[<article><h1>Images</h1><p>Fermus Beta testing the grid.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ff73d05b91ec8f2ab83e478d1ec34e358278362.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>http://fermus.se/fermus-first-gridpost/index.html</link>
             <guid isPermaLink="false">60bffb74-fbbd-44e7-bec6-d3407ce9a701</guid>
             <pubDate>Sat, 19 Dec 2015 22:21:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://jonasclasson.se/wp-content/uploads/2015/12/infohemsida2.jpeg">]]></description>
-            <link>http://fermus.se/710fb430-686a-4d92-8808-bbce4fc994d6/index.html</link>
-            <guid isPermaLink="false">710fb430-686a-4d92-8808-bbce4fc994d6</guid>
-            <pubDate>Sat, 19 Dec 2015 20:58:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
