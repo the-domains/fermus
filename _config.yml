@@ -2,6 +2,7 @@ name: Fermus
 favicon: null
 layout_spectrum: 0
 typography_spectrum: 1
+title: Daniel Ferm
 cta:
   domain: null
   bucket: null
