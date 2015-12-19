@@ -4,7 +4,7 @@
         <description><![CDATA[Betatesting the grid]]></description>
         <link>http://fermus.se/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 22:45:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Dec 2015 22:45:31 GMT</lastBuildDate>
         <atom:link href="http://fermus.se/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -30,9 +30,9 @@
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://jonasclasson.se/wp-content/uploads/2015/05/JChemsidapuff750.jpg">]]></description>
-            <link>http://fermus.se/20967a5d-253e-4125-862c-aae280e751a5/index.html</link>
+            <link>http://jonasclasson.se/</link>
             <guid isPermaLink="false">20967a5d-253e-4125-862c-aae280e751a5</guid>
-            <pubDate>Sat, 19 Dec 2015 20:58:10 GMT</pubDate>
+            <pubDate>Sat, 19 Dec 2015 22:45:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
