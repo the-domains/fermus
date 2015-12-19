@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Fermus]]></title>
         <description><![CDATA[Fermus]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fermus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 18:00:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 19 Dec 2015 18:12:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fermus/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Fermus first gridpost]]></title>
             <description><![CDATA[<article><h1>Fermus first gridpost</h1><p>Well then, here i am.. </p></article>]]></description>
-            <link>undefinedfermus-first-gridpost/index.html</link>
+            <link>https://thegrid.ai/fermus/fermus-first-gridpost/index.html</link>
             <guid isPermaLink="false">60bffb74-fbbd-44e7-bec6-d3407ce9a701</guid>
             <pubDate>Sat, 19 Dec 2015 17:59:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>How do we put images in a post? </p>]]></description>
+            <link>https://thegrid.ai/fermus/803b6289-e736-4218-b60c-8c62b0011221/index.html</link>
+            <guid isPermaLink="false">803b6289-e736-4218-b60c-8c62b0011221</guid>
+            <pubDate>Sat, 19 Dec 2015 18:12:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
