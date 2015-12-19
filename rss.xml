@@ -4,7 +4,7 @@
         <description><![CDATA[Betatesting the grid]]></description>
         <link>http://fermus.se/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 23:31:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Dec 2015 23:31:07 GMT</lastBuildDate>
         <atom:link href="http://fermus.se/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Fermus Beta testing the grid.]]></title>
@@ -19,6 +19,13 @@
             <link>http://fermus.se/fermus-first-gridpost/index.html</link>
             <guid isPermaLink="false">60bffb74-fbbd-44e7-bec6-d3407ce9a701</guid>
             <pubDate>Sat, 19 Dec 2015 22:21:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://jonasclasson.se/wp-content/uploads/2015/09/JC17.jpg">]]></description>
+            <link>http://fermus.se/2c8ca39e-56b3-40c3-b924-65412aee701b/index.html</link>
+            <guid isPermaLink="false">2c8ca39e-56b3-40c3-b924-65412aee701b</guid>
+            <pubDate>Sat, 19 Dec 2015 23:30:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://jonasclasson.se/bildgalleri</link>
             <guid isPermaLink="false">4a266495-bcdc-4479-8401-a7ed701172a3</guid>
             <pubDate>Sat, 19 Dec 2015 23:29:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A remarkable story.]]></title>
-            <description><![CDATA[<article><h1>A remarkable story.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df97f4907aa25322144f9db0067dbf4a1ea21dd0.jpg"></article>]]></description>
-            <link>http://jonasclasson.se/bildgalleri</link>
-            <guid isPermaLink="false">e569ea1d-eae6-459a-9d2f-9fca39066ed2</guid>
-            <pubDate>Sat, 19 Dec 2015 23:28:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
