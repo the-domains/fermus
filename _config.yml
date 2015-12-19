@@ -1,7 +1,7 @@
 name: Fermus
 favicon: null
 layout_spectrum: 0.65817
-typography_spectrum: 1
+typography_spectrum: 0
 title: Betatesting the grid
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#000000'
     - '#00ffff'
     - '#0080ff'
-  brandStrength: 1
+  brandStrength: 0
   lightness: 0.75
   saturation: 1
   rhythmicContrast: 1
