@@ -1,29 +1,18 @@
-name: Fermus
-favicon: null
-layout_spectrum: 0.79448
-typography_spectrum: 0.38038
-title: Fermus
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#050402'
-    - '#fefefe'
-    - '#791d28'
-    - '#606465'
-    - '#fd2a45'
-  brandStrength: 0.3813477859366685
+    - '#B8C8D8'
+    - '#000000'
+    - '#687898'
+    - '#000000'
+    - '#000000'
+  brandStrength: 0.558558
   lightness: 0.5
-  saturation: 0.5
   rhythmicContrast: 0.5
+  saturation: 0.5
+cta: {}
+layout_spectrum: 0.549549
+name: Fermus
+opengraph: {}
 purpose: []
+typography_spectrum: 0.877252
