@@ -4,7 +4,7 @@
         <description><![CDATA[Betatesting the grid]]></description>
         <link>http://fermus.se/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 23:31:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Dec 2015 23:31:10 GMT</lastBuildDate>
         <atom:link href="http://fermus.se/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Fermus Beta testing the grid.]]></title>
@@ -19,13 +19,6 @@
             <link>http://fermus.se/fermus-first-gridpost/index.html</link>
             <guid isPermaLink="false">60bffb74-fbbd-44e7-bec6-d3407ce9a701</guid>
             <pubDate>Sat, 19 Dec 2015 22:21:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://jonasclasson.se/wp-content/uploads/2015/09/JC18.jpg">]]></description>
-            <link>http://fermus.se/eb81a09d-f1dd-451b-8d30-c947a2456fb9/index.html</link>
-            <guid isPermaLink="false">eb81a09d-f1dd-451b-8d30-c947a2456fb9</guid>
-            <pubDate>Sat, 19 Dec 2015 23:30:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -74,6 +67,13 @@
             <description><![CDATA[<img src="http://jonasclasson.se/wp-content/uploads/2015/09/JC01.jpg">]]></description>
             <link>http://fermus.se/844c0c1b-cc7a-4e98-b52c-ee363fa20f09/index.html</link>
             <guid isPermaLink="false">844c0c1b-cc7a-4e98-b52c-ee363fa20f09</guid>
+            <pubDate>Sat, 19 Dec 2015 23:30:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://jonasclasson.se/wp-content/uploads/2015/09/JC03.jpg">]]></description>
+            <link>http://fermus.se/57108a95-f8b6-4a5c-ac7c-395dcc6c45d6/index.html</link>
+            <guid isPermaLink="false">57108a95-f8b6-4a5c-ac7c-395dcc6c45d6</guid>
             <pubDate>Sat, 19 Dec 2015 23:30:16 GMT</pubDate>
         </item>
     </channel>
