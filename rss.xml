@@ -4,7 +4,7 @@
         <description><![CDATA[Betatesting the grid]]></description>
         <link>http://fermus.se/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 23:05:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Dec 2015 23:23:23 GMT</lastBuildDate>
         <atom:link href="http://fermus.se/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Fermus Beta testing the grid.]]></title>
@@ -26,13 +26,6 @@
             <link>http://fermus.se/fermus-first-gridpost/index.html</link>
             <guid isPermaLink="false">60bffb74-fbbd-44e7-bec6-d3407ce9a701</guid>
             <pubDate>Sat, 19 Dec 2015 22:21:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Smack!]]></title>
-            <description><![CDATA[<article><h1>Smack!</h1><p>This foto by photographer Jonas Classon is the shit! Check it out!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1dcad2826bae0ea1e942bbd8fec135433ca138f3.jpg"></article>]]></description>
-            <link>http://jonasclasson.se/bildgalleri</link>
-            <guid isPermaLink="false">bd3e3a50-aed7-478e-8984-fcff324ab635</guid>
-            <pubDate>Sat, 19 Dec 2015 23:04:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bildgalleri - Fotograf Jonas Classon]]></title>
