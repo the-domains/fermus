@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Fermus]]></title>
-        <description><![CDATA[Fermus]]></description>
-        <link>https://thegrid.ai/fermus/</link>
+        <title><![CDATA[Daniel Ferms blogg]]></title>
+        <description><![CDATA[Daniel Ferms blogg]]></description>
+        <link>http://fermus.se/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 22:21:52 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/fermus/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 19 Dec 2015 22:34:39 GMT</lastBuildDate>
+        <atom:link href="http://fermus.se/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Images]]></title>
-            <description><![CDATA[<article><h1>Images</h1><p>How do we put images in a post? </p></article>]]></description>
-            <link>https://thegrid.ai/fermus/803b6289-e736-4218-b60c-8c62b0011221/index.html</link>
+            <description><![CDATA[<article><h1>Images</h1><p>Fermus Beta testing the grid.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2cfcd803-9b1e-4de3-811f-52af879359cc.jpg"></article>]]></description>
+            <link>http://fermus.se/803b6289-e736-4218-b60c-8c62b0011221/index.html</link>
             <guid isPermaLink="false">803b6289-e736-4218-b60c-8c62b0011221</guid>
-            <pubDate>Sat, 19 Dec 2015 21:01:45 GMT</pubDate>
+            <pubDate>Sat, 19 Dec 2015 22:34:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fermus first gridpost]]></title>
-            <description><![CDATA[<article><h1>Fermus first gridpost</h1><p>An old pic of fermus</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1468bd59a8e7b541e299bec43908f9b39604c6e.jpg"></article>]]></description>
-            <link>https://thegrid.ai/fermus/fermus-first-gridpost/index.html</link>
+            <description><![CDATA[<article><h1>Fermus first gridpost</h1><p>Well then, here i am..  i wonder how we put images in a post using only the app, wouldn't it be awesome with a "photo functions" just for the grid? </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f9747a399760d83c31fe499cb86c2bd0ce83b67.jpg"></article>]]></description>
+            <link>http://fermus.se/fermus-first-gridpost/index.html</link>
             <guid isPermaLink="false">60bffb74-fbbd-44e7-bec6-d3407ce9a701</guid>
             <pubDate>Sat, 19 Dec 2015 22:21:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://jonasclasson.se/wp-content/uploads/2015/09/FotografJonasClassson_Liggande_300_ny.png">]]></description>
-            <link>https://thegrid.ai/fermus/4af76241-245a-4951-b19b-3f8454f968b4/index.html</link>
+            <link>http://fermus.se/4af76241-245a-4951-b19b-3f8454f968b4/index.html</link>
             <guid isPermaLink="false">4af76241-245a-4951-b19b-3f8454f968b4</guid>
             <pubDate>Sat, 19 Dec 2015 21:33:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://jonasclasson.se/wp-content/uploads/2015/12/infohemsida2.jpeg">]]></description>
-            <link>https://thegrid.ai/fermus/710fb430-686a-4d92-8808-bbce4fc994d6/index.html</link>
+            <link>http://fermus.se/710fb430-686a-4d92-8808-bbce4fc994d6/index.html</link>
             <guid isPermaLink="false">710fb430-686a-4d92-8808-bbce4fc994d6</guid>
             <pubDate>Sat, 19 Dec 2015 20:58:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://jonasclasson.se/wp-content/uploads/2015/05/JChemsidapuff750.jpg">]]></description>
-            <link>https://thegrid.ai/fermus/20967a5d-253e-4125-862c-aae280e751a5/index.html</link>
+            <link>http://fermus.se/20967a5d-253e-4125-862c-aae280e751a5/index.html</link>
             <guid isPermaLink="false">20967a5d-253e-4125-862c-aae280e751a5</guid>
             <pubDate>Sat, 19 Dec 2015 20:58:10 GMT</pubDate>
         </item>
