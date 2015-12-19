@@ -4,7 +4,7 @@
         <description><![CDATA[Fermus]]></description>
         <link>https://thegrid.ai/fermus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 21:33:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Dec 2015 22:21:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fermus/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Images]]></title>
@@ -15,10 +15,10 @@
         </item>
         <item>
             <title><![CDATA[Fermus first gridpost]]></title>
-            <description><![CDATA[<article><h1>Fermus first gridpost</h1><p>Well then, here i am.. </p></article>]]></description>
+            <description><![CDATA[<article><h1>Fermus first gridpost</h1><p>An old pic of fermus</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1468bd59a8e7b541e299bec43908f9b39604c6e.jpg"></article>]]></description>
             <link>https://thegrid.ai/fermus/fermus-first-gridpost/index.html</link>
             <guid isPermaLink="false">60bffb74-fbbd-44e7-bec6-d3407ce9a701</guid>
-            <pubDate>Sat, 19 Dec 2015 17:59:51 GMT</pubDate>
+            <pubDate>Sat, 19 Dec 2015 22:21:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
