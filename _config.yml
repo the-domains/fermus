@@ -1,6 +1,6 @@
 name: Fermus
 favicon: null
-layout_spectrum: 0.2778706680983305
+layout_spectrum: 0.79448
 typography_spectrum: 0.6276149689219892
 title: Fermus
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ff0000'
-    - '#e68000'
-    - '#000000'
-    - '#aa5500'
-    - '#808000'
+    - '#050402'
+    - '#fefefe'
+    - '#791d28'
+    - '#606465'
+    - '#fd2a45'
   brandStrength: 0.3813477859366685
-  lightness: 0.1875
-  saturation: 0.125
-  rhythmicContrast: 1
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
