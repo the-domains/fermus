@@ -4,7 +4,7 @@
         <description><![CDATA[Fermus]]></description>
         <link>https://thegrid.ai/fermus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 21:01:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Dec 2015 21:33:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fermus/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Images]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/fermus/fermus-first-gridpost/index.html</link>
             <guid isPermaLink="false">60bffb74-fbbd-44e7-bec6-d3407ce9a701</guid>
             <pubDate>Sat, 19 Dec 2015 17:59:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://jonasclasson.se/wp-content/uploads/2015/09/FotografJonasClassson_Liggande_300_ny.png">]]></description>
+            <link>https://thegrid.ai/fermus/4af76241-245a-4951-b19b-3f8454f968b4/index.html</link>
+            <guid isPermaLink="false">4af76241-245a-4951-b19b-3f8454f968b4</guid>
+            <pubDate>Sat, 19 Dec 2015 21:33:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
