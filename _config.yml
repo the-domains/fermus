@@ -2,6 +2,7 @@ name: Fermus
 favicon: null
 layout_spectrum: 0.2778706680983305
 typography_spectrum: 0.6276149689219892
+title: Fermus
 cta:
   domain: null
   bucket: null
