@@ -4,7 +4,7 @@
         <description><![CDATA[Betatesting the grid]]></description>
         <link>http://fermus.se/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 23:32:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Dec 2015 19:25:18 GMT</lastBuildDate>
         <atom:link href="http://fermus.se/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Fermus Beta testing the grid.]]></title>
@@ -22,13 +22,6 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://jonasclasson.se/wp-content/uploads/2015/09/JC20.jpg">]]></description>
-            <link>http://fermus.se/d0249c7d-8a60-49ca-a7cf-7e1e2cc636e9/index.html</link>
-            <guid isPermaLink="false">d0249c7d-8a60-49ca-a7cf-7e1e2cc636e9</guid>
-            <pubDate>Sat, 19 Dec 2015 23:30:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://jonasclasson.se/wp-content/uploads/2015/05/5.jpg">]]></description>
             <link>http://fermus.se/f0cb9bfe-c7d9-4cf2-bf4b-ff1a3eeadc6d/index.html</link>
             <guid isPermaLink="false">f0cb9bfe-c7d9-4cf2-bf4b-ff1a3eeadc6d</guid>
@@ -43,38 +36,10 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://jonasclasson.se/wp-content/uploads/2015/09/JC19.jpg">]]></description>
-            <link>http://fermus.se/2471c8fc-bbb4-4377-baa4-061062264428/index.html</link>
-            <guid isPermaLink="false">2471c8fc-bbb4-4377-baa4-061062264428</guid>
-            <pubDate>Sat, 19 Dec 2015 23:30:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://jonasclasson.se/wp-content/uploads/2015/05/2.jpg">]]></description>
             <link>http://fermus.se/db964dff-6d38-4fb7-81fe-76e5a38f5697/index.html</link>
             <guid isPermaLink="false">db964dff-6d38-4fb7-81fe-76e5a38f5697</guid>
             <pubDate>Sat, 19 Dec 2015 23:30:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://jonasclasson.se/wp-content/uploads/2015/05/11.jpg">]]></description>
-            <link>http://fermus.se/57ff794b-8669-47ef-b061-c069c3e05e3e/index.html</link>
-            <guid isPermaLink="false">57ff794b-8669-47ef-b061-c069c3e05e3e</guid>
-            <pubDate>Sat, 19 Dec 2015 23:30:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://jonasclasson.se/wp-content/uploads/2015/05/201.jpg">]]></description>
-            <link>http://fermus.se/eeaed74f-bfdd-4d1e-b2a3-bbf613afb352/index.html</link>
-            <guid isPermaLink="false">eeaed74f-bfdd-4d1e-b2a3-bbf613afb352</guid>
-            <pubDate>Sat, 19 Dec 2015 23:30:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://jonasclasson.se/wp-content/uploads/2015/05/181.jpg">]]></description>
-            <link>http://fermus.se/2579c570-64aa-4364-b742-7a7222a2c6dc/index.html</link>
-            <guid isPermaLink="false">2579c570-64aa-4364-b742-7a7222a2c6dc</guid>
-            <pubDate>Sat, 19 Dec 2015 23:30:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
