@@ -1,29 +1,44 @@
-name: Fermus
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0
-title: Betatesting the grid
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Daniel Ferm
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/af9c2bc0-010a-4c39-a22a-a9067dd01d32.png
+layout_spectrum: 0.39492452113372783
+typography_spectrum: 0.5150056552062604
+cta: {}
+analytics: {}
 opengraph:
-  image: null
-  type: null
-  appId: null
+  type: ''
+  appId: ''
 color:
   brandColors:
-    - '#00b9fe'
-    - '#3f3f3f'
-    - '#000000'
-    - '#00ffff'
-    - '#0080ff'
-  brandStrength: 0.125
-  lightness: 1
-  saturation: 0.0625
-  rhythmicContrast: 0.5
-purpose: []
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
+  brandStrength: 0.5943041615004623
+  lightness: 0.9570743157579056
+  saturation: 0.6337999382417759
+  rhythmicContrast: 0.8638572325311269
+purpose:
+  - type: contact
+    label: Call me
+    url: 'tel:46735622800'
+  - type: contact
+    label: Mail me
+    url: 'mailto:info@fermedia.se'
+title: Developer of magic things
+description: >-
+  This is my personal log as a Dad, hard working web-designer and life-magician.
+  Do not take all things i write or quote here seriously. 
+author:
+  name: Daniel Ferm
+  url: fermus.se
+  email: info@fermedia
+content_rating:
+  adult: false
+navigation:
+  - name: webesigns
+    id: 3e88c44b-acc9-4cc8-8275-fc10a7d5c176
+    type: content
+content: []
+github: true
