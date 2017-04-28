@@ -1,13 +1,5 @@
-name: Daniel Ferm
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/af9c2bc0-010a-4c39-a22a-a9067dd01d32.png
-layout_spectrum: 0.39492452113372783
-typography_spectrum: 0.5150056552062604
-cta: {}
-analytics: {}
-opengraph:
-  type: ''
-  appId: ''
+layout_spectrum: 0.8642083525066586
+typography_spectrum: 0.5945119772485392
 color:
   brandColors:
     - '#304269'
@@ -15,10 +7,18 @@ color:
     - '#D9E8F5'
     - '#FFFFFF'
     - '#F26101'
-  brandStrength: 0.5943041615004623
-  lightness: 0.9570743157579056
-  saturation: 0.6337999382417759
-  rhythmicContrast: 0.8638572325311269
+  brandStrength: 0.5648376064849003
+  lightness: 0.3984574678705286
+  saturation: 0.3141896376094901
+  rhythmicContrast: 0.3147745887618881
+coverPrefs:
+  filter: false
+name: Daniel Ferm
+cta: {}
+analytics: {}
+opengraph:
+  type: ''
+  appId: ''
 purpose:
   - type: contact
     label: Call me
@@ -32,13 +32,15 @@ description: >-
   Do not take all things i write or quote here seriously. 
 author:
   name: Daniel Ferm
-  url: fermus.se
+  url: fermus.sw
   email: info@fermedia
 content_rating:
   adult: false
+content: []
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/af9c2bc0-010a-4c39-a22a-a9067dd01d32.png
 navigation:
   - name: webesigns
     id: 3e88c44b-acc9-4cc8-8275-fc10a7d5c176
     type: content
-content: []
 github: true
