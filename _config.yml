@@ -1,5 +1,13 @@
+name: Daniel Ferm
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/af9c2bc0-010a-4c39-a22a-a9067dd01d32.png
 layout_spectrum: 0.8642083525066586
 typography_spectrum: 0.5945119772485392
+cta: {}
+analytics: {}
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#304269'
@@ -11,14 +19,6 @@ color:
   lightness: 0.3984574678705286
   saturation: 0.3141896376094901
   rhythmicContrast: 0.3147745887618881
-coverPrefs:
-  filter: false
-name: Daniel Ferm
-cta: {}
-analytics: {}
-opengraph:
-  type: ''
-  appId: ''
 purpose:
   - type: contact
     label: Call me
@@ -37,10 +37,4 @@ author:
 content_rating:
   adult: false
 content: []
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/af9c2bc0-010a-4c39-a22a-a9067dd01d32.png
-navigation:
-  - name: webesigns
-    id: 3e88c44b-acc9-4cc8-8275-fc10a7d5c176
-    type: content
 github: true
