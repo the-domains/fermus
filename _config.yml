@@ -1,24 +1,26 @@
+layout_spectrum: 0.0007203410490240791
+typography_spectrum: 0.7531746056756133
+color:
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  brandStrength: 0.5591895693106264
+  lightness: 0.5147330648343236
+  saturation: 0.9465809250763146
+  rhythmicContrast: 0.30595226719293117
+coverPrefs:
+  filter: false
 name: Daniel Ferm
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/af9c2bc0-010a-4c39-a22a-a9067dd01d32.png
-layout_spectrum: 0.8642083525066586
-typography_spectrum: 0.5945119772485392
 cta: {}
 analytics: {}
 opengraph:
   type: ''
   appId: ''
-color:
-  brandColors:
-    - '#304269'
-    - '#91BED4'
-    - '#D9E8F5'
-    - '#FFFFFF'
-    - '#F26101'
-  brandStrength: 0.5648376064849003
-  lightness: 0.3984574678705286
-  saturation: 0.3141896376094901
-  rhythmicContrast: 0.3147745887618881
 purpose:
   - type: contact
     label: Call me
