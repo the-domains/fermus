@@ -1,16 +1,16 @@
-layout_spectrum: 0.0007203410490240791
-typography_spectrum: 0.7531746056756133
+layout_spectrum: 0.447230031808912
+typography_spectrum: 0.06771467276563001
 color:
   brandColors:
-    - '#468966'
-    - '#FFF0A5'
-    - '#FFB03B'
-    - '#B64926'
-    - '#8E2800'
-  brandStrength: 0.5591895693106264
-  lightness: 0.5147330648343236
-  saturation: 0.9465809250763146
-  rhythmicContrast: 0.30595226719293117
+    - '#170F0E'
+    - '#290418'
+    - '#505217'
+    - '#FFD372'
+    - '#FFF1AF'
+  brandStrength: 0.5392242195381608
+  lightness: 0.621638762090392
+  saturation: 0.3415023232686638
+  rhythmicContrast: 0.8501026419853551
 coverPrefs:
   filter: false
 name: Daniel Ferm
